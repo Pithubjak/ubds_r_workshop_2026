@@ -1,0 +1,7 @@
+apple
+banana
+cherry
+data
+eggplant
+french fries
+grapes
